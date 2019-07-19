@@ -1,0 +1,6 @@
+{
+	"IFunctionConditionConfig":{
+		"id" : "number",
+		"variable" : "string|number|any[]"
+	}
+}

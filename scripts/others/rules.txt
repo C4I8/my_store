@@ -1,0 +1,4 @@
+effect/battle,optimize
+model/body/1,optimize
+model/body/2,optimize
+model/body/3,optimize
