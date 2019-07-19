@@ -1,0 +1,12 @@
+{
+	"fate":["item_id","level"],
+	"soul":["item_id","level"],
+	"petfashion":["type","level"],
+	"petChange":["type_id","rank_petchange"],
+	"petHorse":["type","level"],
+	"gangbattlewin":["time","min_worldlv"],
+	"commerceEmployeeLevel":["level","quality"],
+	"commerceEmployeeStar":["star","quality"],
+	"commerceBuilding":["id", "level"],
+	"commerceBuildingStar":["id", "star"]
+}

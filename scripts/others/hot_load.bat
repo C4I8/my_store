@@ -1,0 +1,1 @@
+hot.bat data_monster_type

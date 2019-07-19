@@ -1,0 +1,687 @@
+../art/attack1/model1_attack_down,--algorithm MaxRects --maxrects-heuristics bottomLeft,4d60f2b32369de1a211a19ad58117dce
+../art/attack1/model1_attack_up,--algorithm MaxRects --maxrects-heuristics bottomLeft,57f3856345c350cd2538f7aac62dd3ce
+../art/avatars/a_cike_0_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,ee94ee25002a0875710a3bf2f11ab5df
+../art/avatars/a_cike_0_attack2,--basic-order ascending --algorithm Basic --basic-sort-by best,5d7c865e22e4395ed54a1bdca6f92c71
+../art/avatars/a_cike_0_idle_back,--basic-order ascending --algorithm Basic --basic-sort-by height,bf2daa6d297ccbbd1c8b5cd82445afb3
+../art/avatars/a_cike_0_idle_front,--basic-order ascending --algorithm Basic --basic-sort-by area,feab77a36fe22734c5931e3850ee4dc3
+../art/avatars/a_cike_0_idle_side,--algorithm MaxRects --maxrects-heuristics best,078cc8f638cfbbe85c3392d26b8380d5
+../art/avatars/a_cike_0_injured,--algorithm MaxRects --maxrects-heuristics best,5b5f0855618d451dc05f6f4ba7edd26a
+../art/avatars/a_cike_0_ready,--algorithm MaxRects --maxrects-heuristics best,d60bea4d3af368f783c4fd25e13923d1
+../art/avatars/a_cike_0_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,5504ec994faf531d7c5c7bc7f0fc81d4
+../art/avatars/a_cike_0_run_front,--algorithm MaxRects --maxrects-heuristics area,545a04357572b46e094754f8db098063
+../art/avatars/a_cike_0_run_side,--algorithm MaxRects --maxrects-heuristics best,c79ed526327f803517ceb7df2ad3313d
+../art/avatars/a_cike_1_idle_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,46e5df45b745dc3653396673a0f7cc52
+../art/avatars/a_cike_1_idle_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,8e6814cf17f926a9283ec2cc45637e3a
+../art/avatars/a_cike_1_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,f1503e5627800a2a14d7e64ee4f6056f
+../art/avatars/a_cike_1_injured,--algorithm MaxRects --maxrects-heuristics best,cceeafcf1806a2cd51f64ed62df377f2
+../art/avatars/a_cike_1_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,c1b8942dbbf16f51d3bf35fcdbe8c38e
+../art/avatars/a_cike_1_run_back,--basic-order ascending --algorithm Basic --basic-sort-by best,57638027f7f014a0eb5c586375e19430
+../art/avatars/a_cike_1_run_front,--basic-order ascending --algorithm Basic --basic-sort-by height,6ce7d62059b119d043550ee497f66752
+../art/avatars/a_cike_1_run_side,--basic-order ascending --algorithm Basic --basic-sort-by width,2eabcad4737947945e51d7ab0a036103
+../art/avatars/a_cike_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,50c983769e2040168a7b4ce47a132302
+../art/avatars/a_cike_attack2_1,--algorithm MaxRects --maxrects-heuristics best,65a71b9a48667690972002423c271e3c
+../art/avatars/a_cike_attack3_1,--algorithm MaxRects --maxrects-heuristics bottomLeft,df4655f3a159b4df85c8e6035f461d2a
+../art/avatars/a_fashi_0_attack,--basic-order descending --algorithm Basic --basic-sort-by best,0cf1b9bfc811534daad62b3c48f55fa7
+../art/avatars/a_fashi_0_attack2,--basic-order ascending --algorithm Basic --basic-sort-by best,68c4a479333a1a25a0894d20cb81d1b6
+../art/avatars/a_fashi_0_idle_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,2e5cb7e07f8436f23abc9d1c8a8649d5
+../art/avatars/a_fashi_0_idle_front,--basic-order ascending --algorithm Basic --basic-sort-by height,67c71649313b0493e94da62eae75864b
+../art/avatars/a_fashi_0_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,9c8dc3bba3569e3a5440ff0d5b415fa7
+../art/avatars/a_fashi_0_injured,--algorithm MaxRects --maxrects-heuristics best,03d876fe95558e36f7a226fccf62bb18
+../art/avatars/a_fashi_0_ready,--basic-order descending --algorithm Basic --basic-sort-by width,e16fe0e77860df939586b5233be9ace9
+../art/avatars/a_fashi_0_run_back,--basic-order ascending --algorithm Basic --basic-sort-by best,5451c732e977c2a572d1a3aa5f068c56
+../art/avatars/a_fashi_0_run_front,--algorithm MaxRects --maxrects-heuristics best,cc6da14cf7cab0fa7562df30d1bcc3de
+../art/avatars/a_fashi_0_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,510d2ae394fc8696b936e82e254d5700
+../art/avatars/a_fashi_1_attack,--basic-order ascending --algorithm Basic --basic-sort-by height,2545e7a30e27cd3939778e9a92fb82a5
+../art/avatars/a_fashi_1_attack2,--algorithm MaxRects --maxrects-heuristics area,11984ebd029cd3e265025dd1c3ce0ab0
+../art/avatars/a_fashi_1_idle_back,--algorithm MaxRects --maxrects-heuristics area,47c0c6387f1f652c8c584b34baf79678
+../art/avatars/a_fashi_1_idle_front,--algorithm MaxRects --maxrects-heuristics best,1baac69efe7ef769f4200a55608dcd31
+../art/avatars/a_fashi_1_idle_side,--basic-order ascending --algorithm Basic --basic-sort-by height,0443f9e71a63da03d4c858aa8c8f27b6
+../art/avatars/a_fashi_1_injured,--algorithm MaxRects --maxrects-heuristics best,cb930a954f7ae97d70c1f9a96e695caf
+../art/avatars/a_fashi_1_leisure_back,--basic-order ascending --algorithm Basic --basic-sort-by circumference,89596eb1869e7879a2802b52d2d98ab5
+../art/avatars/a_fashi_1_leisure_front,--algorithm MaxRects --maxrects-heuristics best,5849fdf1461acf6be0c9890d30ef4200
+../art/effects/moneytree/money_tree_shake,--basic-order ascending --algorithm Basic --basic-sort-by width,10ace88505b61db252d099d9a0371262
+../art/effects/weapon/weapon_cike_0_attack,--algorithm MaxRects --maxrects-heuristics contactPoint,3c180e1c39ad50bd84db3fa7e024b025
+../art/effects/weapon/weapon_cike_0_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,ba434015a12cf1f028f78c32a78a16d1
+../art/effects/weapon/weapon_cike_0_idle_back,--basic-order descending --algorithm Basic --basic-sort-by height,7bae0762ce112cd4e0ddea3a77dfdb8c
+../art/effects/weapon/weapon_cike_0_idle_front,--basic-order descending --algorithm Basic --basic-sort-by height,1df46d12928ed7e499183687fe2a688a
+../art/effects/weapon/weapon_cike_0_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,caa3469eaf0c0f02010a0354d5891af3
+../art/effects/weapon/weapon_cike_0_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,3d6f6f6ed0002ea51c96869bc215fa97
+../art/effects/weapon/weapon_cike_0_run_back,--basic-order descending --algorithm Basic --basic-sort-by height,41c88878c7e8230cf36fb46d949d238b
+../art/effects/weapon/weapon_cike_0_run_front,--basic-order ascending --algorithm Basic --basic-sort-by height,7ac19a1bceb95fa0e2d07ca589185c01
+../art/effects/weapon/weapon_cike_0_run_side,--basic-order ascending --algorithm Basic --basic-sort-by height,23a835b179c19ee350586c821833d757
+../art/effects/weapon/weapon_cike_1_attack,--algorithm MaxRects --maxrects-heuristics area,753d6924e1d417f3c86faaacbadf0725
+../art/effects/weapon/weapon_cike_1_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,1f3ae421077dab1d4cd7d3e831e8a51f
+../art/effects/weapon/weapon_cike_1_idle_back,--basic-order ascending --algorithm Basic --basic-sort-by height,981c5832808b68384f9ef1b709cd32f0
+../art/effects/weapon/weapon_cike_1_idle_front,--basic-order ascending --algorithm Basic --basic-sort-by best,d1d62ac0e364affbe0a5c2ba4ba12cfe
+../art/effects/weapon/weapon_cike_1_idle_side,--algorithm MaxRects --maxrects-heuristics area,10ce53d12cca64843f8b229d3dd52aac
+../art/effects/weapon/weapon_cike_1_injured,--algorithm MaxRects --maxrects-heuristics best,b41a7a2d2b913dba2e9fddd4608f31a5
+../art/effects/weapon/weapon_cike_1_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,2b02601fb260cae38223438afca33f92
+../art/effects/weapon/weapon_cike_1_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,022871dbd78ef092a51d9d970b50c99d
+../art/effects/weapon/weapon_cike_1_run_front,--basic-order descending --algorithm Basic --basic-sort-by height,8f3ae2951ecdd59333875917c63e5a6f
+../art/effects/weapon/weapon_cike_1_run_side,--basic-order ascending --algorithm Basic --basic-sort-by height,c302db5db798bc9f0b9546a25d626031
+../art/effects/weapon/weapon_fashi_0_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,b8ae8b83da871a5bf03cce35c463d266
+../art/effects/weapon/weapon_fashi_0_attack2,--algorithm MaxRects --maxrects-heuristics contactPoint,432df7844996e16a5521b8817923f0c7
+../art/effects/weapon/weapon_fashi_0_idle_back,--algorithm MaxRects --maxrects-heuristics best,17a1f67fc0e96ba841921da62f977938
+../art/effects/weapon/weapon_fashi_0_idle_front,--algorithm MaxRects --maxrects-heuristics area,2134eef755b79e601a8f5ed3f4ef8db3
+../art/effects/weapon/weapon_fashi_0_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,d47836fcd9c0d2facf9e0764d990bdb5
+../art/effects/weapon/weapon_fashi_0_injured,--algorithm MaxRects --maxrects-heuristics best,787172c912d664504df9fca804d849a7
+../art/effects/weapon/weapon_fashi_0_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,b08de0867d1dc9b50e3a610c13a0d7cc
+../art/effects/weapon/weapon_fashi_0_run_back,--algorithm MaxRects --maxrects-heuristics best,3a895914aeb2d1ca9e07e9cffa606837
+../art/effects/weapon/weapon_fashi_0_run_front,--basic-order ascending --algorithm Basic --basic-sort-by best,c53290a4bf4b63ca13efb409fe073cd8
+../art/effects/weapon/weapon_fashi_0_run_side,--algorithm MaxRects --maxrects-heuristics best,2dbf481097978898bbe7019f56da9947
+../art/effects/weapon/weapon_fashi_1_attack,--basic-order ascending --algorithm Basic --basic-sort-by height,6b1a761f216f6ac5dcac0ae735d0004b
+../art/effects/weapon/weapon_fashi_1_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,50ffea14e7772e24f298446636cc8dd5
+../art/effects/weapon/weapon_fashi_1_idle_back,--algorithm MaxRects --maxrects-heuristics longSide,969e7495356a1f9b37bbe5c1778ecff8
+../art/effects/weapon/weapon_fashi_1_idle_front,--basic-order ascending --algorithm Basic --basic-sort-by best,9f55f4c4c65fbd44166c8737cb54b2ca
+../art/effects/weapon/weapon_fashi_1_idle_side,--algorithm MaxRects --maxrects-heuristics area,b7196e9fae54a727bdbdf2afdb6c2ef5
+../art/effects/weapon/weapon_fashi_1_injured,--algorithm MaxRects --maxrects-heuristics best,771c8aa1eafc1375db86bdae08c1fd6a
+../art/effects/weapon/weapon_fashi_1_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,210fa817d8a3ddbb35ab94dd5db8f3ae
+../art/effects/weapon/weapon_fashi_1_run_back,--basic-order ascending --algorithm Basic --basic-sort-by best,c995b9695dd8535db197271f0ad1169c
+../art/effects/weapon/weapon_fashi_1_run_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,b9b1585c102c419d118b40fc4b88c4db
+../art/effects/weapon/weapon_fashi_1_run_side,--algorithm MaxRects --maxrects-heuristics best,00f30da7c9c5dae30d4898dc052dadeb
+../art/effects/weapon/weapon_zhanshi_0_attack,--algorithm MaxRects --maxrects-heuristics best,90b669834c45c5e5b1f161e329f4c0c1
+../art/effects/weapon/weapon_zhanshi_0_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,8de6a689b2faf0d9bd6032a55bec984c
+../art/effects/weapon/weapon_zhanshi_0_attack3,--algorithm MaxRects --maxrects-heuristics bottomLeft,6c9647e3741f39ceb4b1182cce90e51b
+../art/effects/weapon/weapon_zhanshi_0_idle_back,--basic-order ascending --algorithm Basic --basic-sort-by height,0450860ea3322ccf3defce3c0a3cfbd3
+../art/effects/weapon/weapon_zhanshi_0_idle_front,--algorithm MaxRects --maxrects-heuristics best,6497b67f44143e9e2cca23a47280f78c
+../art/effects/weapon/weapon_zhanshi_0_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,2c5853b9693b5eeabacf30d9c45109ba
+../art/effects/weapon/weapon_zhanshi_0_injured,--algorithm MaxRects --maxrects-heuristics best,6be5193896fbb93ad18071f4cfc28133
+../art/effects/weapon/weapon_zhanshi_0_ready,--algorithm MaxRects --maxrects-heuristics area,4150c53dd3f201eafb7fe17f0599110c
+../art/effects/weapon/weapon_zhanshi_0_run_back,--basic-order ascending --algorithm Basic --basic-sort-by height,6c0d7b62a4a7359292c5ede4040d416c
+../art/effects/weapon/weapon_zhanshi_0_run_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,ffc71d5675e85cf242fd7a6cae061f51
+../art/effects/weapon/weapon_zhanshi_0_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,b1856f7fb87c12ca3c52d8eea34b6256
+../art/effects/weapon/weapon_zhanshi_1_attack,--algorithm MaxRects --maxrects-heuristics best,4b8f524fa9ec46d2f4134f9ec41faf0e
+../art/effects/weapon/weapon_zhanshi_1_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,867b78567e010c23978608aa5de32979
+../art/effects/weapon/weapon_zhanshi_1_idle_back,--algorithm MaxRects --maxrects-heuristics best,48d2802c6811a6e6dd07735cf78c13b3
+../art/effects/weapon/weapon_zhanshi_1_idle_front,--algorithm MaxRects --maxrects-heuristics shortSide,cc8e1c758a72e6b60732d8dd3a5993ec
+../art/effects/weapon/weapon_zhanshi_1_idle_side,--basic-order ascending --algorithm Basic --basic-sort-by height,8425717e39146457e6fdc84fff5f547e
+../art/effects/weapon/weapon_zhanshi_1_injured,--algorithm MaxRects --maxrects-heuristics best,72927147707208db1c51bbc2c2533772
+../art/effects/weapon/weapon_zhanshi_1_ready,--algorithm MaxRects --maxrects-heuristics area,f04efe5b6becec99f3da3510ce2d4f72
+../art/effects/weapon/weapon_zhanshi_1_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,96b7f8702c8d181b81bab077375fb47e
+../art/effects/weapon/weapon_zhanshi_1_run_front,--algorithm MaxRects --maxrects-heuristics best,519fe722991d76b9030fa8b44ca0d969
+../art/effects/weapon/weapon_zhanshi_1_run_side,--basic-order ascending --algorithm Basic --basic-sort-by area,7c1b2a8ae71cf03448cc81349c9194bd
+../art/icon/battle,--algorithm MaxRects --maxrects-heuristics best,3de5110bacba125681724556127ed31d
+../art/icon/charge,--algorithm MaxRects --maxrects-heuristics best,00b60f56c3452f9b053dc75ddaef7a58
+../art/icon/chat,--algorithm MaxRects --maxrects-heuristics bottomLeft,630bd842dc39cb3878391d746bee7b11
+../art/icon/daily_activity,--basic-order ascending --algorithm Basic --basic-sort-by area,83f6f9ada95b81352fc2b9852b132150
+../art/icon/equip,--algorithm MaxRects --maxrects-heuristics bottomLeft,80ee07ea87354e85f1be6bac191432a1
+../art/icon/gang_skill,--algorithm MaxRects --maxrects-heuristics bottomLeft,63ea2345077f23e72b81b52c73a95d8a
+../art/icon/item,--algorithm MaxRects --maxrects-heuristics bottomLeft,66640c2a96e030cc8289966f22ca2b4c
+../art/icon/mate_name,--basic-order descending --algorithm Basic --basic-sort-by height,200cb26bf1961ef621cc04c37e04d5ec
+../art/icon/skillname,--basic-order ascending --algorithm Basic --basic-sort-by height,0c9f5dbd639bf9febc23cf050d619300
+../art/icon/sword_soul,--algorithm MaxRects --maxrects-heuristics bottomLeft,858804d9af22655c78d4a86f22b5a7bc
+../art/icon/vip,--algorithm MaxRects --maxrects-heuristics area,7c9266168ca4a679c6e8f038b4b3d7d9
+../art/idle/model1_idle_back,--basic-order ascending --algorithm Basic --basic-sort-by height,2818b0f7da3a04b66c923b0398434789
+../art/idle/model1_idle_down,--basic-order ascending --algorithm Basic --basic-sort-by height,0246b8cf4d0e4231456ffdc3c319b8c8
+../art/idle/model1_idle_front,--algorithm MaxRects --maxrects-heuristics best,333ccfcdccef52ee6f91f083bc62906e
+../art/idle/model1_idle_side,--basic-order ascending --algorithm Basic --basic-sort-by best,522eca3d33658436fcdf1effed4176c4
+../art/idle/model1_idle_up,--basic-order ascending --algorithm Basic --basic-sort-by best,75eeac89cbfb9e45dff5ef019c10f849
+../art/mate/bianshen_axiuluo_attack,--basic-order ascending --algorithm Basic --basic-sort-by area,301ee52ad731be7ef3a5b82ba1e6b083
+../art/mate/bianshen_axiuluo_attack2,--algorithm MaxRects --maxrects-heuristics best,e24d2be87fac5e883e79ec4738e393fd
+../art/mate/bianshen_axiuluo_attack3,--algorithm MaxRects --maxrects-heuristics area,dc3c9a362d05c636622c0665ca85ec5e
+../art/mate/bianshen_axiuluo_bianshen,--basic-order ascending --algorithm Basic --basic-sort-by width,c446cf0851742db03f781808ed9684e9
+../art/mate/bianshen_axiuluo_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,20ead503f873fe2450305cb59221c58a
+../art/mate/bianshen_axiuluo_injured,--algorithm MaxRects --maxrects-heuristics best,592fbcc3aff5f972bcc3fcd9cdb21319
+../art/mate/bianshen_axiuluo_ready,--basic-order descending --algorithm Basic --basic-sort-by height,27c849631b2a98692c866b4056b79193
+../art/mate/bianshen_houyi_attack,--algorithm MaxRects --maxrects-heuristics best,51c9eb2835c5693dfe7ec543c68abfc7
+../art/mate/bianshen_houyi_attack2,--algorithm MaxRects --maxrects-heuristics area,c7f0c1ee42efa9ad9c2e5ded60aff0e2
+../art/mate/bianshen_houyi_idle,--algorithm MaxRects --maxrects-heuristics best,d8a8e963fac8f6d4dc0213a81b8b08f3
+../art/mate/bianshen_houyi_injured,--algorithm MaxRects --maxrects-heuristics best,09be79cf1701727ae3bdd6ffc1fef6ca
+../art/mate/bianshen_houyi_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,a011b33991c05ae558009a148dc063c8
+../art/mate/bianshen_houyi_run,--algorithm MaxRects --maxrects-heuristics best,9a84d9844b7e57cf37d06e440e66e9ff
+../art/mate/bianshen_jiutianxuannv_attack,--algorithm MaxRects --maxrects-heuristics contactPoint,b9e2e6aedd2e18c41d00bc1cb3d22032
+../art/mate/bianshen_jiutianxuannv_attack2,--basic-order ascending --algorithm Basic --basic-sort-by width,d5d8ddcc54e46405509b7a6486254344
+../art/mate/bianshen_jiutianxuannv_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,a93501a69fb0cad49126a1ebe00fe9d9
+../art/mate/bianshen_jiutianxuannv_injured,--algorithm MaxRects --maxrects-heuristics best,7e2c4af03bbf030c21963c5e4b0f3a8c
+../art/mate/bianshen_jiutianxuannv_ready,--basic-order ascending --algorithm Basic --basic-sort-by width,f09eb9a003f13dc7b50f4f4c3ffbf4da
+../art/mate/bianshen_jiutianxuannv_run,--basic-order ascending --algorithm Basic --basic-sort-by height,a34ab1ad54dc3e40e3177a3e3c47a36f
+../art/mate/bianshen_jiutianxuannv_run_back,--algorithm MaxRects --maxrects-heuristics best,2eff25249fc87cffa1ad78a3a2ea7dd4
+../art/mate/s_baigujing_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,7fc72ab78c928cb63021a2d4e5a1669d
+../art/mate/s_baigujing_idle,--algorithm MaxRects --maxrects-heuristics best,09fcc3a16a789f01946807fed66fff97
+../art/mate/s_baigujing_injured,--algorithm MaxRects --maxrects-heuristics best,645a045436dc94788a6654518c0c90ac
+../art/mate/s_baigujing_ready,--algorithm MaxRects --maxrects-heuristics best,410a1b817cfcb0e552d1d5d2a928b3aa
+../art/mate/s_baigujing_run,--algorithm MaxRects --maxrects-heuristics best,e2ee800ccdf6e9c3036bc280053bad30
+../art/mate/s_chiyou_attack,--basic-order ascending --algorithm Basic --basic-sort-by area,81247ac86e8a2f3010ad803f73d25fc9
+../art/mate/s_chiyou_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,f26399ea8b25f442e25d16f38ef4a4f4
+../art/mate/s_chiyou_attack3,--algorithm MaxRects --maxrects-heuristics bottomLeft,4da3c68e0f8ae4e84c43c2c5c0ad7ee4
+../art/mate/s_chiyou_bianshen,--algorithm MaxRects --maxrects-heuristics best,6415ce579954b89a39694976eb304dae
+../art/mate/s_chiyou_idle,--algorithm MaxRects --maxrects-heuristics area,4300c29ed021eb07e81def7b6d2f76b9
+../art/mate/s_chiyou_injured,--algorithm MaxRects --maxrects-heuristics best,31df81f06c0a30b0726c8770d9c102ea
+../art/mate/s_chiyou_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,e659bf4e97b1a1fb307453752ce9909f
+../art/mate/s_chiyou_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,be2dc663530fd17f592aab293dd3dd49
+../art/mate/s_erlangshen_attack,--algorithm MaxRects --maxrects-heuristics best,0eb3ea0f9148082e1783f5fd79117de8
+../art/mate/s_erlangshen_attack2,--basic-order descending --algorithm Basic --basic-sort-by height,ebb6c9b75ad6e7d41a1c6c6214a8c21b
+../art/mate/s_erlangshen_idle,--algorithm MaxRects --maxrects-heuristics shortSide,85d4c8d9e59fb0c6b94d436abfbb580a
+../art/mate/s_erlangshen_injured,--algorithm MaxRects --maxrects-heuristics best,cfd248079ece871f1a1de6012587c1bf
+../art/mate/s_erlangshen_ready,--basic-order descending --algorithm Basic --basic-sort-by height,db4a299d94b33127e7586708b2f9fca7
+../art/mate/s_erlangshen_run,--basic-order ascending --algorithm Basic --basic-sort-by best,a1904e98a33f59dbed80837d9ef1eaaf
+../art/mate/s_gaocuilan_attack,--algorithm MaxRects --maxrects-heuristics longSide,b001d76fc1743fc3f59610d55d5e0869
+../art/mate/s_gaocuilan_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,a9cfac43e7ab0de1728e4574facdcc20
+../art/mate/s_gaocuilan_idle,--basic-order ascending --algorithm Basic --basic-sort-by best,88626ead19841f58cefefd587e5fb113
+../art/mate/s_gaocuilan_injured,--algorithm MaxRects --maxrects-heuristics best,311681c504f25e34acfe199d86f52879
+../art/mate/s_gaocuilan_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,aeef1ef445508ff95ab5c94fb4044cb3
+../art/mate/s_gaocuilan_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,62673a4ba279c89e07d955307c263929
+../art/mate/s_gaocuilan_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,e8b92b21942f409493146f51d6b7d3b7
+../art/mate/s_honghaier_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,c5b73e30acdf5b1f1ce97714a05c03e1
+../art/mate/s_honghaier_attack2,--algorithm MaxRects --maxrects-heuristics longSide,c20fb2bf12beb5815faf71781afdbba8
+../art/mate/s_honghaier_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,0b9354bdddade924756a905ca581fed4
+../art/mate/s_honghaier_injured,--algorithm MaxRects --maxrects-heuristics best,e6909e353b838de0d54742188da5b385
+../art/mate/s_honghaier_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,5285b67a9ea73bfc29d823b33590d190
+../art/mate/s_honghaier_run,--algorithm MaxRects --maxrects-heuristics best,c14e751f711eaae1545c78c43c5896ab
+../art/mate/s_huodexingjun_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,cb4ae14cd6e53886d95eda1aeca568f7
+../art/mate/s_huodexingjun_idle,--algorithm MaxRects --maxrects-heuristics area,0a656b18f0d24cc40ed3d674bd756a9f
+../art/mate/s_huodexingjun_injured,--algorithm MaxRects --maxrects-heuristics best,62e493c5533d625e085673fb868ae748
+../art/mate/s_huodexingjun_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,97427c205d87d5d693e3e6cc69384fb2
+../art/mate/s_huodexingjun_run,--basic-order ascending --algorithm Basic --basic-sort-by best,15d1c06d9cbf9f4e36f350879f1c9aa8
+../art/mate/s_jialouluowang_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,7beefdb61508f0baa267d5ef99cf6200
+../art/mate/s_jialouluowang_attack2,--basic-order ascending --algorithm Basic --basic-sort-by area,3adc4986c59a04695a11442bec3d8988
+../art/mate/s_jialouluowang_idle,--basic-order descending --algorithm Basic --basic-sort-by best,71e268e50ec35938e49bda9cd1510627
+../art/mate/s_jialouluowang_injured,--algorithm MaxRects --maxrects-heuristics best,69f775f57a6a9aef8aa7d214dd3916f9
+../art/mate/s_jialouluowang_ready,--algorithm MaxRects --maxrects-heuristics area,e6b7d417ef28440a9e63ca3d9c92d991
+../art/mate/s_jialouluowang_run,--basic-order ascending --algorithm Basic --basic-sort-by height,7e674af52b9e96df423c543d05a88bcb
+../art/mate/s_jinchanzi_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,4a979eb7644916849c749ea73c931127
+../art/mate/s_jinchanzi_idle,--basic-order ascending --algorithm Basic --basic-sort-by best,efca28c9fd1252226a6b539fd30c3028
+../art/mate/s_jinchanzi_injured,--algorithm MaxRects --maxrects-heuristics best,81553c0e58187fce59d5a6e46645092e
+../art/mate/s_jinchanzi_ready,--algorithm MaxRects --maxrects-heuristics best,9b2deef360a3eb644e8c30fb9653cc86
+../art/mate/s_jinchanzi_run,--basic-order descending --algorithm Basic --basic-sort-by height,23f9cb135a8bbedf806773dfaef20d2a
+../art/mate/s_jinjiao_attack,--algorithm MaxRects --maxrects-heuristics best,f6ed4647d7f9fd5f81b4402556259c7c
+../art/mate/s_jinjiao_attack2,--algorithm MaxRects --maxrects-heuristics best,dc50b13b39c739a979066c767020b683
+../art/mate/s_jinjiao_idle,--basic-order descending --algorithm Basic --basic-sort-by height,e69a06da0cdd72498181771add9dd08f
+../art/mate/s_jinjiao_injured,--algorithm MaxRects --maxrects-heuristics best,173b5a18dde12020ae4601e200297ab2
+../art/mate/s_jinjiao_ready,--algorithm MaxRects --maxrects-heuristics longSide,fc5d64630488f8e07ce8b60650e33788
+../art/mate/s_jinjiao_run,--basic-order ascending --algorithm Basic --basic-sort-by best,de7a82aaee5b5e322aa0c92f7d85e7ad
+../art/mate/s_mengpo_attack,--algorithm MaxRects --maxrects-heuristics best,9cfb3a20a5e6fbc74da981929ae58bbb
+../art/mate/s_mengpo_idle,--algorithm MaxRects --maxrects-heuristics best,ff882b2708a37fbd610daed1f94be827
+../art/mate/s_mengpo_injured,--algorithm MaxRects --maxrects-heuristics best,c931b7be146e2dbe67b63fa980e6a005
+../art/mate/s_mengpo_ready,--algorithm MaxRects --maxrects-heuristics best,883943008e8f89aa52ee2acc9b07bf97
+../art/mate/s_mengpo_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,d542d140b647d884bc6f68c9bdb896eb
+../art/mate/s_niumowang_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,764982b8aeed249efb30cf2d106d104f
+../art/mate/s_niumowang_idle,--algorithm MaxRects --maxrects-heuristics best,02f8c7fbaeab43f2eb3eac07e79fc96c
+../art/mate/s_niumowang_injured,--algorithm MaxRects --maxrects-heuristics best,261e3b4d591c935fd909fe3a4d9842d5
+../art/mate/s_niumowang_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,0ea8ffa07c18edc6dc186ee01eb5f2f1
+../art/mate/s_niumowang_run,--algorithm MaxRects --maxrects-heuristics contactPoint,835661c3fc5e9eafeebd5c74c41ab54b
+../art/mate/s_nverguowang_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,2bba402f2add6a29332a8f12f57d06a9
+../art/mate/s_nverguowang_attack2,--algorithm MaxRects --maxrects-heuristics area,990399cdac8290413d0814953eb1af86
+../art/mate/s_nverguowang_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,c2c5ddb019d769d348f6bc9f4c6ebf7d
+../art/mate/s_nverguowang_injured,--algorithm MaxRects --maxrects-heuristics best,ea5ac947d45abebecb4e040b5c08d4f6
+../art/mate/s_nverguowang_ready,--algorithm MaxRects --maxrects-heuristics best,88012de055413c091ba1a98010375791
+../art/mate/s_nverguowang_run,--algorithm MaxRects --maxrects-heuristics best,e29c74c0b93a7e827cf15f6d4a95fe6c
+../art/mate/s_nverguowang_run_back,--basic-order ascending --algorithm Basic --basic-sort-by height,d9b4bb69e6a007099d7a06e5b5edcd06
+../art/mate/s_panda_attack,--algorithm MaxRects --maxrects-heuristics best,e326f2f50ba5344c696e83f9bb8041e0
+../art/mate/s_panda_attack2,--basic-order ascending --algorithm Basic --basic-sort-by best,dc059a6ef883240e856be20d356c1536
+../art/mate/s_panda_idle,--basic-order ascending --algorithm Basic --basic-sort-by best,748b9b62808baf76524bca8f55d7835d
+../art/mate/s_panda_injured,--algorithm MaxRects --maxrects-heuristics best,9d71fd6ce400f61db31facff9f3eb34a
+../art/mate/s_panda_ready,--algorithm MaxRects --maxrects-heuristics area,b6035fe1a2c58b08c721d5c02ae2f02b
+../art/mate/s_panda_run,--algorithm MaxRects --maxrects-heuristics best,3d2e093a62ad5ac20a41b73811e2f9a7
+../art/mate/s_shaseng_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,688dbb8e3fe0d526453628cf30349bb7
+../art/mate/s_shaseng_attack2,--basic-order ascending --algorithm Basic --basic-sort-by best,943658511176cd52772ff4e5564e1ab5
+../art/mate/s_shaseng_idle,--algorithm MaxRects --maxrects-heuristics best,0c4a27fdb59440cf8025f9186007c664
+../art/mate/s_shaseng_injured,--algorithm MaxRects --maxrects-heuristics best,87edcac04843a193a32c6b5c4d85217d
+../art/mate/s_shaseng_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,6c6a387cda2efc6198ced552504aaba3
+../art/mate/s_shaseng_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,7d12bc3da4f5551f2e4f6c17a8449858
+../art/mate/s_sunwukong_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,17b242a51f68fea225fa996817a231bc
+../art/mate/s_sunwukong_attack2,--algorithm MaxRects --maxrects-heuristics best,34585d3dbffd5b42f94ed720f647070d
+../art/mate/s_sunwukong_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,bd602f790d47028d9337dcfa3e53e61e
+../art/mate/s_sunwukong_injured,--algorithm MaxRects --maxrects-heuristics best,4098c45fb6b9911885cb0e3acfbb6ad7
+../art/mate/s_sunwukong_ready,--algorithm MaxRects --maxrects-heuristics contactPoint,f39ceeb8c4b7a6488c579c04d7cf5674
+../art/mate/s_sunwukong_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,1cdae5967888fcaf6ff7e5072075993a
+../art/mate/s_tiechixiangwang_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,9bb3459279abde4cf3fd27a68eeba9cd
+../art/mate/s_tiechixiangwang_idle,--algorithm MaxRects --maxrects-heuristics best,c2c4b9b1d2f258778c481e06d1feef92
+../art/mate/s_tiechixiangwang_injured,--algorithm MaxRects --maxrects-heuristics best,8e178ec753790b8339d5b1c5daebf785
+../art/mate/s_tiechixiangwang_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,14c47f26472def1d4a4b07c5f488da59
+../art/mate/s_tiechixiangwang_run,--algorithm MaxRects --maxrects-heuristics best,964fda9be59edc8124c5d7e4b07a0457
+../art/mate/s_tieshangongzhu_attack,--algorithm MaxRects --maxrects-heuristics best,6a826b74b90d1fdaa00efdc54870c6b7
+../art/mate/s_tieshangongzhu_idle,--algorithm MaxRects --maxrects-heuristics area,55c1462fab0a7f2b5d87be4e569f4cc7
+../art/mate/s_tieshangongzhu_injured,--algorithm MaxRects --maxrects-heuristics best,fb8d9b130a23c5f81a1732c342101620
+../art/mate/s_tieshangongzhu_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,127a61ba9c78d35f10a862619f1c2849
+../art/mate/s_tieshangongzhu_run,--basic-order descending --algorithm Basic --basic-sort-by best,21da03582ebffcc5adc352a8b9eafa2a
+../art/mate/s_wuzhishan_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,20e1e991774ebd16a6bc6db3e46f1072
+../art/mate/s_wuzhishan_idle,--algorithm MaxRects --maxrects-heuristics area,e846c33b3624ca8198235d74aac3673d
+../art/mate/s_wuzhishan_injured,--algorithm MaxRects --maxrects-heuristics best,c694e4bea7475b904d30411a06584f23
+../art/mate/s_wuzhishan_ready,--algorithm MaxRects --maxrects-heuristics best,cde68e7c0e7f2be38cdb00a9d68ad05a
+../art/mate/s_wuzhishan_run,--basic-order descending --algorithm Basic --basic-sort-by best,2236d2e6c457af496e9ee9da811e1a8a
+../art/mate/s_xiaolujing_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,a44466d95b6269e2040f5c0e8408e043
+../art/mate/s_xiaolujing_attack2,--algorithm MaxRects --maxrects-heuristics area,0d15416c2824877ea0a308db6c32de84
+../art/mate/s_xiaolujing_idle,--algorithm MaxRects --maxrects-heuristics best,6308adc2700b764db3d28d09c38940e1
+../art/mate/s_xiaolujing_injured,--algorithm MaxRects --maxrects-heuristics best,cfe3791848567e90ace649e9aa007d5c
+../art/mate/s_xiaolujing_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,49bd3f4953a42d77f48ce17b29465161
+../art/mate/s_xiaolujing_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,f42453d97c63f4c91c351bc3c0a588da
+../art/mate/s_yumianhuli_attack,--algorithm MaxRects --maxrects-heuristics area,35117a18479fa19cb0b6b460e643340b
+../art/mate/s_yumianhuli_attack2,--algorithm MaxRects --maxrects-heuristics best,1e60599b7e74047798b7414fc3b5d948
+../art/mate/s_yumianhuli_idle,--algorithm MaxRects --maxrects-heuristics best,cc5efff0827695e7a709e3835276a794
+../art/mate/s_yumianhuli_injured,--algorithm MaxRects --maxrects-heuristics best,8e3a7baf28d123e25e2c42bbfa51af84
+../art/mate/s_yumianhuli_ready,--algorithm MaxRects --maxrects-heuristics best,c77f7b2ae446a79077857ca59b8472f0
+../art/mate/s_yumianhuli_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,908f3e5f3bbc9e060b4282960699965a
+../art/mate/s_yutu_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,acd26c6f8e8a8dcc2563d51920381f28
+../art/mate/s_yutu_attack2,--algorithm MaxRects --maxrects-heuristics shortSide,9c9795a9481c4c53db1dad858037594b
+../art/mate/s_yutu_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,dc7322a052b0a801cd3602f4b317d9a6
+../art/mate/s_yutu_injured,--algorithm MaxRects --maxrects-heuristics best,f382611c460a5f475dbe8e35b11c9e12
+../art/mate/s_yutu_ready,--algorithm MaxRects --maxrects-heuristics area,b87a99b25209644097ac470acc9ed170
+../art/mate/s_yutu_run,--algorithm MaxRects --maxrects-heuristics area,3dbff537ef5443cd9200953548d7fbfe
+../art/mate/s_zhizhujing_attack,--algorithm MaxRects --maxrects-heuristics contactPoint,54ac93c06a1753d881c86d8ab2c53361
+../art/mate/s_zhizhujing_idle,--basic-order ascending --algorithm Basic --basic-sort-by best,bce184c587fe2faacaa13a1c6bc58dde
+../art/mate/s_zhizhujing_injured,--algorithm MaxRects --maxrects-heuristics best,07c735960aae84cad16b1bfce2f4c45e
+../art/mate/s_zhizhujing_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,fafdcd35f62864686120cb216d874200
+../art/mate/s_zhizhujing_run,--basic-order ascending --algorithm Basic --basic-sort-by height,5220d3566ce46c5824b799a394567474
+../art/mate/s_zhizhujing_run_back,--algorithm MaxRects --maxrects-heuristics best,34e1ed30ccbc59fab036f6508f10c032
+../art/mate/s_zhubajie_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,a202a9fb075dbe0f4ad1c4bd59397ad2
+../art/mate/s_zhubajie_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,acdbf3030a1ac12c77508cc4eeb19863
+../art/mate/s_zhubajie_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,fa9a076ae6107b07c65040cbb30b9260
+../art/mate/s_zhubajie_injured,--algorithm MaxRects --maxrects-heuristics best,b1d82b215e29c97edccf3cf4024735dd
+../art/mate/s_zhubajie_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,bd7bf2f4e1dd0d897ed27aa578aa79e5
+../art/mate/s_zhubajie_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,c9dce369fac7f462ca1cb0efa7b0617a
+../art/mate/s_zixia_attack,--basic-order ascending --algorithm Basic --basic-sort-by name,735f78a5757fc44dcda5869e41698837
+../art/mate/s_zixia_attack2,--algorithm MaxRects --maxrects-heuristics area,00171787d4eee6571a9faa3823eb2d31
+../art/mate/s_zixia_idle,--algorithm MaxRects --maxrects-heuristics area,766dd1a6eae6c288d8328f66266c13ae
+../art/mate/s_zixia_injured,--algorithm MaxRects --maxrects-heuristics best,6593822a4f181842078f310e86e4db37
+../art/mate/s_zixia_ready,--algorithm MaxRects --maxrects-heuristics area,36abd11cff3187aac59506956353e30a
+../art/mate/s_zixia_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,e84b8de2a3555e3b65d81727fe4689d6
+../art/mate/s_zixia_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,882210fffb3302010c88fb42393e6aba
+../art/model1_attack_down,--algorithm MaxRects --maxrects-heuristics bottomLeft,73e109a229e18eaefd899297963767fb
+../art/mount/1,--algorithm MaxRects --maxrects-heuristics best,2f25fc999d406d26ac034f213c2a12a4
+../art/mount/524_attack1,--algorithm MaxRects --maxrects-heuristics bottomLeft,4df6c04d7c454a33002b49b6029233e0
+../art/mount/524_attack2,--algorithm MaxRects --maxrects-heuristics contactPoint,b4223d80114d84a682109c3c8b5a47c1
+../art/mount/524_ready_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,393a854b36eafa96fbbcb26ad3e9f5e2
+../art/mount/a_11_attack3,--algorithm MaxRects --maxrects-heuristics bottomLeft,f4e71fb3d2b7e2b8ecd14cd40d0d3905
+../art/mount/a_31/a_31_attack1/body,--algorithm MaxRects --maxrects-heuristics best,a5a1b26d91aa8676764f337156b79944
+../art/mount/a_31/a_31_attack1/clothes,--algorithm MaxRects --maxrects-heuristics best,495def28a1f2dd3c0e253d296882ff5e
+../art/mount/a_31/a_31_attack1/effects,--algorithm MaxRects --maxrects-heuristics contactPoint,d9277b87712d7eb4d2fdffde17fc8e5f
+../art/mount/a_31/a_31_attack1/hair,--algorithm MaxRects --maxrects-heuristics bottomLeft,21d303e907320f9d530f8e7b80137896
+../art/mount/a_31/a_31_attack1/weapon,--algorithm MaxRects --maxrects-heuristics best,cae1235e96f40ada95c837f4845dd7e4
+../art/mount/a_31_attack1/body,--algorithm MaxRects --maxrects-heuristics best,a5a1b26d91aa8676764f337156b79944
+../art/mount/a_31_attack1/clothes,--algorithm MaxRects --maxrects-heuristics best,495def28a1f2dd3c0e253d296882ff5e
+../art/mount/a_31_attack1/effects,--algorithm MaxRects --maxrects-heuristics contactPoint,d9277b87712d7eb4d2fdffde17fc8e5f
+../art/mount/a_31_attack1/hair,--algorithm MaxRects --maxrects-heuristics bottomLeft,21d303e907320f9d530f8e7b80137896
+../art/mount/a_31_attack1/weapon,--algorithm MaxRects --maxrects-heuristics best,cae1235e96f40ada95c837f4845dd7e4
+../art/mount/attack1/model1_attack_down,--algorithm MaxRects --maxrects-heuristics bottomLeft,4d60f2b32369de1a211a19ad58117dce
+../art/mount/attack1/model1_attack_up,--algorithm MaxRects --maxrects-heuristics bottomLeft,d3daed8220b504a8d5536c4cdc18586f
+../art/mount/attackchance,--basic-order ascending --algorithm Basic --basic-sort-by best,6c249c6e42d5f2c56f728f0ff7695461
+../art/mount/coilsilk,--basic-order ascending --algorithm Basic --basic-sort-by height,4d2284d26476ef068a75685c8d42f0f9
+../art/mount/idle/model1_idle_back,--basic-order ascending --algorithm Basic --basic-sort-by height,2818b0f7da3a04b66c923b0398434789
+../art/mount/idle/model1_idle_down,--basic-order ascending --algorithm Basic --basic-sort-by height,0246b8cf4d0e4231456ffdc3c319b8c8
+../art/mount/idle/model1_idle_front,--algorithm MaxRects --maxrects-heuristics best,333ccfcdccef52ee6f91f083bc62906e
+../art/mount/idle/model1_idle_side,--basic-order ascending --algorithm Basic --basic-sort-by best,522eca3d33658436fcdf1effed4176c4
+../art/mount/idle/model1_idle_up,--basic-order ascending --algorithm Basic --basic-sort-by best,75eeac89cbfb9e45dff5ef019c10f849
+../art/mount/m_huajuan_run_back,--algorithm MaxRects --maxrects-heuristics best,37e3150b572c099b9e0bc4e81bf7c949
+../art/mount/m_huajuan_run_front,--algorithm MaxRects --maxrects-heuristics best,fc55c4956b1f9d641505f02438f768e5
+../art/mount/m_huajuan_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,613feb6d5d0ee11c82fcd49c7462f1d4
+../art/mount/m_maple_run_back,--algorithm MaxRects --maxrects-heuristics best,6e0a92e804b249c35a0dfc8881b492cf
+../art/mount/m_maple_run_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,4a8c489b167ffd5bc04602da7f7ba202
+../art/mount/m_maple_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,74ac07092f3bcac3d5b427ccb5a291e6
+../art/mount/model1_attack_down,--algorithm MaxRects --maxrects-heuristics best,7c6fb6c4b5bf767c56ac383fb6949f5e
+../art/mount/model1_attack_up,--algorithm MaxRects --maxrects-heuristics bottomLeft,8eb76a27d2364b89e86643fcf1dd4061
+../art/mount/model1_injured_down,--algorithm MaxRects --maxrects-heuristics best,3c2ca7deb1b4b046354b72224d869115
+../art/mount/model1_ready_down,--basic-order ascending --algorithm Basic --basic-sort-by best,b9355b630d7409d7e26efc1f2cc29fd6
+../art/mount/model1_ready_up,--basic-order ascending --algorithm Basic --basic-sort-by best,f6ff0e9ba522f9cfd98a4e0852429d09
+../art/mount/pet_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,f7024e73092268d630ccd9650ca6bfe7
+../art/mount/pet_front,--algorithm MaxRects --maxrects-heuristics area,eaef9b596ff8106875361943473147b9
+../art/mount/rac_back,--basic-order ascending --algorithm Basic --basic-sort-by height,e1af8d12b2a6c571a603e962bc01e192
+../art/mount/rac_front,--basic-order ascending --algorithm Basic --basic-sort-by best,d4c728cfc87b69b0a5e83fd8507e40a0
+../art/mount/ready,--basic-order ascending --algorithm Basic --basic-sort-by height,3cb51dd8d2b0aad0fb33d14252fa4aaa
+../art/mount/recover,--algorithm MaxRects --maxrects-heuristics shortSide,f9b816806f1e114577f2353bc802b7cb
+../art/mount/rest,--algorithm MaxRects --maxrects-heuristics bottomLeft,a6e4c138811646a9452bd7cab884d74b
+../art/mount/run/model1_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,46a4bc5c36a26277c53f8df253551e26
+../art/mount/run/model1_run_down,--basic-order ascending --algorithm Basic --basic-sort-by height,ed1133d2bebecadda9425f376d1ff7c7
+../art/mount/run/model1_run_front,--basic-order descending --algorithm Basic --basic-sort-by height,64430f04adffa010fc7d6fb6710c4d2f
+../art/mount/run/model1_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,21e5fe539cb52392fbf66d47ce166a86
+../art/mount/run/model1_run_up,--algorithm MaxRects --maxrects-heuristics bottomLeft,f20a5cc70f0023ab7faafd71239642c6
+../art/mount/skill_1001,--algorithm MaxRects --maxrects-heuristics best,527624708dcbe604e9273fa9451b6d9e
+../art/mount/skill_1001_injured,--algorithm MaxRects --maxrects-heuristics best,b536b85506bb3d7eac335791ac957ee7
+../art/mount/skill_1002,--algorithm MaxRects --maxrects-heuristics bottomLeft,6ed74f09a9699865a8a1f750d5174fcd
+../art/mount/skill_1003,--algorithm MaxRects --maxrects-heuristics best,0f7cce20307fb4f43c5e34c54a03b792
+../art/mount/skill_1004,--basic-order ascending --algorithm Basic --basic-sort-by width,0502bf60e38363a68cc355ac23267ff4
+../art/mount/skill_1004_buff,--algorithm MaxRects --maxrects-heuristics bottomLeft,07e5731352a88514e0344832b502ae02
+../art/mount/smart,--algorithm MaxRects --maxrects-heuristics best,44f4d260f8c5fe14da8476856d0d74a9
+../art/mount/summon,--algorithm MaxRects --maxrects-heuristics bottomLeft,c78870f9f77d6bc23fe66f53f7d5ca62
+../art/mount/t_a,--algorithm MaxRects --maxrects-heuristics bottomLeft,3611751b9ba860d6f5db19b05b95e282
+../art/mount/t_i,--basic-order descending --algorithm Basic --basic-sort-by height,8f6ea0e7641d107da362f2f023900a63
+../art/mount/t_r,--algorithm MaxRects --maxrects-heuristics bottomLeft,a3bc6542e5f9b72f7d36efac0dbd2684
+../art/mount/受击/model1_injured_down,--algorithm MaxRects --maxrects-heuristics best,ea5bff9a13d5de40a9114c7c85017bad
+../art/mount/受击/model1_injured_up,--algorithm MaxRects --maxrects-heuristics best,3aeb406332505b07d72384b9260fe83e
+../art/mount/战斗待机/model1_ready_down,--basic-order ascending --algorithm Basic --basic-sort-by best,1f99c61c89e66bd562ae997ad56a69c8
+../art/mount/战斗待机/model1_ready_up,--basic-order ascending --algorithm Basic --basic-sort-by best,1e38796b3fea59ad40e14545ae8ba1d0
+../art/npc/n_banghuimengzhu_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,2b19fa3944a1aa3e310744f428de6614
+../art/npc/n_lishimin_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,6dc30dfda56712a5db235397d455a551
+../art/npc/n_longwang_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,770c46b33a830c69fd51408cc7b8407f
+../art/npc/n_putilaozu_idle,--algorithm MaxRects --maxrects-heuristics area,b83bc84b445e22a0066d0add7cde1a02
+../art/npc/n_qinqiong_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,57e0e097784ac04e67f695a8258daa49
+../art/npc/n_qumobang_idle,--algorithm MaxRects --maxrects-heuristics best,3bba58002f0c0b66849f9f2147785b9a
+../art/npc/n_shangren_idle,--basic-order ascending --algorithm Basic --basic-sort-by width,e597bd28f3c13b3e6fa908ab8aeececc
+../art/npc/n_tianyintongzi_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,4036fda10d18ca2fb4bf2ff42ce15216
+../art/npc/n_xiaohuoban_idle,--basic-order ascending --algorithm Basic --basic-sort-by best,8b2b62e241b9f8aefef2947e4784894c
+../art/npc/n_yueguangbaohezhiling_attack,--algorithm MaxRects --maxrects-heuristics best,685791cd5180bb96596e6293d8ba1142
+../art/npc/n_yueguangbaohezhiling_idle,--basic-order ascending --algorithm Basic --basic-sort-by width,9123ef425f6bda46f191d6ee9aaffbf0
+../art/npc/n_yueguangbaohezhiling_injured,--algorithm MaxRects --maxrects-heuristics best,2fb0db6d8a882b3e6004ab5cb248973c
+../art/npc/n_yueguangbaohezhiling_ready,--algorithm MaxRects --maxrects-heuristics best,2a5a875b7bea67f0ed1439b8c4705596
+../art/npc/n_yueguangbaohezhiling_run,--basic-order ascending --algorithm Basic --basic-sort-by height,5b1d628f3b8f854225e7d80c752fb8fd
+../art/npc/n_yuelao_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,1af5c3ce59b7d702fb61e3762dfa630f
+../art/run/model1_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,46a4bc5c36a26277c53f8df253551e26
+../art/run/model1_run_down,--basic-order ascending --algorithm Basic --basic-sort-by height,ed1133d2bebecadda9425f376d1ff7c7
+../art/run/model1_run_front,--basic-order descending --algorithm Basic --basic-sort-by height,64430f04adffa010fc7d6fb6710c4d2f
+../art/run/model1_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,21e5fe539cb52392fbf66d47ce166a86
+../art/run/model1_run_up,--algorithm MaxRects --maxrects-heuristics bottomLeft,f20a5cc70f0023ab7faafd71239642c6
+../art/skill_1001,--algorithm MaxRects --maxrects-heuristics best,527624708dcbe604e9273fa9451b6d9e
+../art/skill_1001_injured,--basic-order ascending --algorithm Basic --basic-sort-by area,ad408c72436e9a6db1892b7345c5e5a0
+../art/skill_1003,--algorithm MaxRects --maxrects-heuristics best,0f7cce20307fb4f43c5e34c54a03b792
+../art/skill_1004,--basic-order ascending --algorithm Basic --basic-sort-by width,0502bf60e38363a68cc355ac23267ff4
+../art/skill_1004_buff,--algorithm MaxRects --maxrects-heuristics bottomLeft,07e5731352a88514e0344832b502ae02
+../art/temp/a,--algorithm MaxRects --maxrects-heuristics bottomLeft,9e0bda79296e202a1a471fbac305be17
+../art/temp/a_fashi_0_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,628cbc04f42de5bd46d60f4973a42412
+../art/temp/a_fashi_0_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,d94d78b342d338782e50be33e8aa2c5b
+../art/temp/a_fashi_0_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,1a750dc9760d97739036240c063f8fe6
+../art/temp/a_fashi_0_run_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,121e4a7398b63a98f7ace4b4ad4195c4
+../art/temp/a_fashi_0_run_side,--algorithm MaxRects --maxrects-heuristics best,162b4601811b39a55dcba69a01c02084
+../art/temp/a_fashi_1_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,4fdfef4b7a4eb7700f02332faa950a70
+../art/temp/a_zhanshi_0_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,1982acf99c3b325e2469bbaa1c78f3fc
+../art/temp/a_zhanshi_0_attack2,--algorithm MaxRects --maxrects-heuristics best,359d3460b5e1341779f494c81f8880aa
+../art/temp/a_zhanshi_0_injured,--algorithm MaxRects --maxrects-heuristics best,cb4f15ec982f014f1a9a6302cf5feb87
+../art/temp/a_zhanshi_1_attack3,--algorithm MaxRects --maxrects-heuristics bottomLeft,5cde3ade56c3bab38633e202a64ef145
+../art/temp/a_zhanshi_1_idle_front,--basic-order ascending --algorithm Basic --basic-sort-by height,88f1a09d88705fb8f917092f897595e3
+../art/temp/arrow,--basic-order ascending --algorithm Basic --basic-sort-by height,da8ba75d45808fa1a3d1c13a4af17087
+../art/temp/b,--basic-order ascending --algorithm Basic --basic-sort-by area,1322562e0c48e3ee4d7428df12ec2d2c
+../art/temp/bianshen_houyi_attack,--algorithm MaxRects --maxrects-heuristics best,51c9eb2835c5693dfe7ec543c68abfc7
+../art/temp/bianshen_houyi_attack2,--algorithm MaxRects --maxrects-heuristics area,c7f0c1ee42efa9ad9c2e5ded60aff0e2
+../art/temp/bianshen_houyi_idle,--algorithm MaxRects --maxrects-heuristics best,d8a8e963fac8f6d4dc0213a81b8b08f3
+../art/temp/bianshen_houyi_injured,--algorithm MaxRects --maxrects-heuristics best,09be79cf1701727ae3bdd6ffc1fef6ca
+../art/temp/bianshen_houyi_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,a011b33991c05ae558009a148dc063c8
+../art/temp/bianshen_houyi_run,--algorithm MaxRects --maxrects-heuristics best,9a84d9844b7e57cf37d06e440e66e9ff
+../art/temp/c,--algorithm MaxRects --maxrects-heuristics best,3df60c95336ab8b4ef2c429a7fb38d1a
+../art/temp/common_cike_injured,--basic-order ascending --algorithm Basic --basic-sort-by area,78f493ded152775e1d8df34d1477afe1
+../art/temp/common_cike_injured2,--basic-order ascending --algorithm Basic --basic-sort-by area,78f493ded152775e1d8df34d1477afe1
+../art/temp/e_cike_crit,--algorithm MaxRects --maxrects-heuristics contactPoint,b150e98cfae460aeb70448850ad4448e
+../art/temp/e_zhanshi_taunt,--algorithm MaxRects --maxrects-heuristics best,9f8e9a2989db294797a3e25f5078ae27
+../art/temp/f_twilight_0_attack,--algorithm MaxRects --maxrects-heuristics best,32dd26231c4a40b4390c78b8dd25b22e
+../art/temp/f_twilight_0_attack2,--algorithm MaxRects --maxrects-heuristics area,3e3f50bfbb85e1b0d92a312b5530c6df
+../art/temp/f_twilight_0_attack3,--algorithm MaxRects --maxrects-heuristics area,e2600429e974f7fa33ab7ac421037465
+../art/temp/f_twilight_0_attack4,--algorithm MaxRects --maxrects-heuristics best,658dd6d843495ba6fa17f15f8a756ab2
+../art/temp/f_twilight_0_idle_back,--algorithm MaxRects --maxrects-heuristics area,a05c7de8a1de52faf8e9ce0bc56d1509
+../art/temp/f_twilight_0_idle_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,d08adea1a169d4b04c4485e385d51984
+../art/temp/f_twilight_0_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,cf4a939696401d946498d3d9d607010d
+../art/temp/f_twilight_0_injured,--algorithm MaxRects --maxrects-heuristics best,44fdecea4867cf4017e736350da66b3e
+../art/temp/f_twilight_0_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,e78add16979af2061628e17f474502b2
+../art/temp/f_twilight_0_run_back,--algorithm MaxRects --maxrects-heuristics best,322739876529de68c60d5df16721b503
+../art/temp/f_twilight_0_run_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,b983bf1e41a4eacd8393e25b0e368758
+../art/temp/f_twilight_0_run_side,--basic-order descending --algorithm Basic --basic-sort-by height,cd7bbe97c07fe5b4f623fee81e7fe850
+../art/temp/f_twilight_1_attack,--algorithm MaxRects --maxrects-heuristics best,e895ea01eb8e060aac44afe1bdfa3b2b
+../art/temp/f_twilight_1_attack2,--basic-order descending --algorithm Basic --basic-sort-by height,6df9721d0f3469bfc058feeae3b0dd07
+../art/temp/f_twilight_1_attack3,--basic-order ascending --algorithm Basic --basic-sort-by height,832857773e24fae1ba05d5ea93e3ccbe
+../art/temp/f_twilight_1_attack4,--basic-order ascending --algorithm Basic --basic-sort-by height,365b836593abe6670278f80c27bf5afe
+../art/temp/f_twilight_1_idle_back,--basic-order ascending --algorithm Basic --basic-sort-by best,f4f4d38ee7b87132cf25f7cf02c10ce4
+../art/temp/f_twilight_1_idle_front,--algorithm MaxRects --maxrects-heuristics area,67d87e8196becacad28978b8fd5f4792
+../art/temp/f_twilight_1_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,7e6b0ba225c967dd5981e2b7696689f3
+../art/temp/f_twilight_1_injured,--algorithm MaxRects --maxrects-heuristics best,3d162db12bd892c7e0e8420edf760997
+../art/temp/f_twilight_1_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,ad35b2277ba2d7478108a82acc7ac1e0
+../art/temp/f_twilight_1_run_back,--algorithm MaxRects --maxrects-heuristics best,e6b80e205ab643c5c189824d1de2c122
+../art/temp/f_twilight_1_run_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,5b66f612841ba66578d9be78869ce491
+../art/temp/f_twilight_1_run_side,--algorithm MaxRects --maxrects-heuristics best,66f10eb5344072ba6d57453d929031e3
+../art/temp/f_yangyang_0_run_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,7a309f3428c56a587f4cd2004122fd67
+../art/temp/f_yangyang_0_run_front,--basic-order ascending --algorithm Basic --basic-sort-by height,a487b6d00011174157577c06bdf30117
+../art/temp/f_yangyang_0_run_side,--algorithm MaxRects --maxrects-heuristics best,573f8ae283a8328cb870baea1ba2301c
+../art/temp/i_a,--algorithm MaxRects --maxrects-heuristics best,f22661ea2da6d3560bb5a00943bbdeac
+../art/temp/i_b,--basic-order ascending --algorithm Basic --basic-sort-by best,16f6f8f1deff4e2f0fb3d77478de64d6
+../art/temp/i_c,--algorithm MaxRects --maxrects-heuristics bottomLeft,3dd1c29653463d40460c50ccb416cd7f
+../art/temp/m_taishanglaojun_attack,--basic-order ascending --algorithm Basic --basic-sort-by height,a467edff47c0cd34d5101a72f2bf6998
+../art/temp/m_taishanglaojun_injured,--algorithm MaxRects --maxrects-heuristics best,c22c6323686604e23fbb752b80d45fcf
+../art/temp/m_taishanglaojun_ready,--basic-order descending --algorithm Basic --basic-sort-by best,c677e5f2259e546284704cfcde5c024f
+../art/temp/m_taishanglaojun_run,--basic-order descending --algorithm Basic --basic-sort-by best,c677e5f2259e546284704cfcde5c024f
+../art/temp/m_yanshu_attack,--basic-order descending --algorithm Basic --basic-sort-by height,e9f93e6e5da79dc061f36d43d58fd904
+../art/temp/m_yanshu_injured,--algorithm MaxRects --maxrects-heuristics best,857a1420096f8b5f0c93aa71f936ce71
+../art/temp/m_yanshu_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,fedd02eafb25b027b60b8b7ffc7c05a7
+../art/temp/m_yanshu_run,--basic-order ascending --algorithm Basic --basic-sort-by best,7c759b8e7b95a2c90d5f1eba27efb37c
+../art/temp/mate_down,--basic-order descending --algorithm Basic --basic-sort-by height,0b54d09df24f4672e59c1243d31247ec
+../art/temp/mate_spirit_bg,--basic-order ascending --algorithm Basic --basic-sort-by best,e1f5ced7a4f97fa4bbb43b1341a2b26f
+../art/temp/mate_spirit_levelup,--basic-order descending --algorithm Basic --basic-sort-by best,1acaaa905e5310fbbc9ac941fb655407
+../art/temp/mate_spirit_light,--algorithm MaxRects --maxrects-heuristics longSide,5ea6dd9e962b0b0dc07e8f84da1fd689
+../art/temp/mate_spirit_line,--basic-order ascending --algorithm Basic --basic-sort-by height,9500bba918e6c1d6620ddf412e546921
+../art/temp/mate_spirit_mate_sprit,--algorithm MaxRects --maxrects-heuristics best,efd278ee66bf2cc647de5b10b4075a7c
+../art/temp/mate_spirit_tips,--basic-order ascending --algorithm Basic --basic-sort-by best,c31a8331db3e51df48a8bd115df549c0
+../art/temp/mate_sprit_bg,--basic-order ascending --algorithm Basic --basic-sort-by best,e1f5ced7a4f97fa4bbb43b1341a2b26f
+../art/temp/mate_sprit_levelup,--basic-order descending --algorithm Basic --basic-sort-by best,1acaaa905e5310fbbc9ac941fb655407
+../art/temp/mate_sprit_light,--algorithm MaxRects --maxrects-heuristics longSide,5ea6dd9e962b0b0dc07e8f84da1fd689
+../art/temp/mate_sprit_line,--basic-order ascending --algorithm Basic --basic-sort-by height,9500bba918e6c1d6620ddf412e546921
+../art/temp/mate_sprit_mate_sprit,--algorithm MaxRects --maxrects-heuristics best,efd278ee66bf2cc647de5b10b4075a7c
+../art/temp/mate_sprit_tips,--basic-order ascending --algorithm Basic --basic-sort-by best,c31a8331db3e51df48a8bd115df549c0
+../art/temp/mate_up,--algorithm MaxRects --maxrects-heuristics bottomLeft,dc8562deec6f4fc727a95d1d788ac123
+../art/temp/monster/m_bangkejing_attack,--algorithm MaxRects --maxrects-heuristics best,7b21903cc779500a980d8ca4afebf0db
+../art/temp/monster/m_bangkejing_injured,--algorithm MaxRects --maxrects-heuristics best,f8a847cdd302f79363cd70766639402d
+../art/temp/monster/m_bangkejing_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,d0cf2f6d1254874c42480adedaab92eb
+../art/temp/monster/m_bangkejing_run,--algorithm MaxRects --maxrects-heuristics longSide,b634e4287a11c353f9f64ab04f9ae2aa
+../art/temp/monster/m_bianhua_attack,--algorithm MaxRects --maxrects-heuristics contactPoint,7ec000f5450081a0863c682ea4f9e41b
+../art/temp/monster/m_bianhua_injured,--algorithm MaxRects --maxrects-heuristics best,102b81dcea85aa9bbcbd87a6292c1fff
+../art/temp/monster/m_bianhua_ready,--algorithm MaxRects --maxrects-heuristics best,6e7fa1abf4b1658831cade0cb6b30cef
+../art/temp/monster/m_bianhua_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,aa0bfc324588dc03a7ad593bd9f3b692
+../art/temp/monster/m_diyongfuren_attack,--algorithm MaxRects --maxrects-heuristics area,f8fdd79692a48921d427180f21bab098
+../art/temp/monster/m_diyongfuren_injured,--algorithm MaxRects --maxrects-heuristics best,609bfd82700e56b62c8c5ebd18ea4019
+../art/temp/monster/m_diyongfuren_ready,--algorithm MaxRects --maxrects-heuristics best,d1a3c26f73425c1605684b15913f90cc
+../art/temp/monster/m_diyongfuren_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,e5b4b152399db0c7ec557b90089aaa5e
+../art/temp/monster/m_diyuquan_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,5b1bd3c44fb94c24ae190dfc5903770b
+../art/temp/monster/m_diyuquan_idle,--algorithm MaxRects --maxrects-heuristics best,6e3042f02849afe0131b0d22636bf84f
+../art/temp/monster/m_diyuquan_injured,--algorithm MaxRects --maxrects-heuristics best,407d4ca7bfb10558ddc24c80277a547d
+../art/temp/monster/m_diyuquan_ready,--algorithm MaxRects --maxrects-heuristics area,df1440e944ea3430be6544c5026c80f6
+../art/temp/monster/m_diyuquan_run,--algorithm MaxRects --maxrects-heuristics best,bd5611ff92a72d3f3f533896fd8e82eb
+../art/temp/monster/m_huangshujing_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,8743bca1fce4e2326ef3d959aaa82b45
+../art/temp/monster/m_huangshujing_idle,--algorithm MaxRects --maxrects-heuristics best,569eb2891eb8475f349cbe1c6c5c9af2
+../art/temp/monster/m_huangshujing_injured,--algorithm MaxRects --maxrects-heuristics best,a4515db216c911b37a4c8f7de8ea7694
+../art/temp/monster/m_huangshujing_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,014506c26d50fe4d8dffb4968e44ac4c
+../art/temp/monster/m_huangshujing_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,afd2f9faa2a36dbb5aff7d82d993a2fe
+../art/temp/monster/m_jiutouchong_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,5f84f8fb6810e671861ab7a93f76742c
+../art/temp/monster/m_jiutouchong_injured,--algorithm MaxRects --maxrects-heuristics best,9e35ef9f071d37a8653a6c91fb32bc2b
+../art/temp/monster/m_jiutouchong_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,5d8a283d5f44b8af0d4e4e170759bd75
+../art/temp/monster/m_jiutouchong_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,236787f3b40ce3f2432b08ec916b68a9
+../art/temp/monster/m_kulou_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,5fdb737b45123956c7d812c58eafa978
+../art/temp/monster/m_kulou_idle,--algorithm MaxRects --maxrects-heuristics best,67e31958b39c253e1d4ebf8d62dcdeb6
+../art/temp/monster/m_kulou_injured,--algorithm MaxRects --maxrects-heuristics best,96bdecb2733dce8032572faa31ca98ec
+../art/temp/monster/m_kulou_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,6e55df8852a6051c37a0498b8f21d864
+../art/temp/monster/m_kulou_run,--algorithm MaxRects --maxrects-heuristics best,15d37dcddb05c752e3964c358d560d1b
+../art/temp/monster/m_lieyanlongmao_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,72739e2732b96341864ef8ef5050d8c7
+../art/temp/monster/m_lieyanlongmao_idle,--algorithm MaxRects --maxrects-heuristics contactPoint,29b457e12e951113f83a0318d02a05bd
+../art/temp/monster/m_lieyanlongmao_injured,--algorithm MaxRects --maxrects-heuristics best,a40a70e28c3f4b1c05c5b4d9e9b6604d
+../art/temp/monster/m_lieyanlongmao_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,8b5d0f0b15ed4f3180631f0cf4b3bee1
+../art/temp/monster/m_lieyanlongmao_run,--basic-order ascending --algorithm Basic --basic-sort-by area,48ee242cb2aee40a53ee54491c0697d7
+../art/temp/monster/m_longnv_attack,--algorithm MaxRects --maxrects-heuristics area,3c7b3fc6eca11f0612d9f44838879518
+../art/temp/monster/m_longnv_injured,--algorithm MaxRects --maxrects-heuristics best,24ab8c3013805483e277c3f239d54755
+../art/temp/monster/m_longnv_ready,--algorithm MaxRects --maxrects-heuristics area,2704ec7af763af767423b4b1315babd1
+../art/temp/monster/m_longnv_run,--algorithm MaxRects --maxrects-heuristics longSide,a4ec0eba849414d78f9a968af4958e81
+../art/temp/monster/m_maliang_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,cfd364bfcb5397db8b6b1c843a5e9797
+../art/temp/monster/m_maliang_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,e4a8d9baefda82e27c9cb6c8b6febe3d
+../art/temp/monster/m_maliang_injured,--algorithm MaxRects --maxrects-heuristics best,153e0d28cac444cda3292619f248ab43
+../art/temp/monster/m_maliang_ready,--basic-order ascending --algorithm Basic --basic-sort-by area,39c967c950884ea5c21e009ce1bc5ad4
+../art/temp/monster/m_maliang_run,--algorithm MaxRects --maxrects-heuristics area,0ed71c2cbd7a5634e434793da6aeb04f
+../art/temp/monster/m_maocaoqiu_attack,--algorithm MaxRects --maxrects-heuristics best,34c990ae0e5a486ef6a2b6d39c69f9f8
+../art/temp/monster/m_maocaoqiu_injured,--algorithm MaxRects --maxrects-heuristics best,9551f23ca03aafd5cec2541268703c62
+../art/temp/monster/m_maocaoqiu_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,77086587bc39ae74fa3e5ecf12da530b
+../art/temp/monster/m_maocaoqiu_run,--basic-order ascending --algorithm Basic --basic-sort-by height,3e4e1ae7790f229000fda524154371b6
+../art/temp/monster/m_meirenyu_attack,--basic-order ascending --algorithm Basic --basic-sort-by height,619a2e1f62810e68eb6e9be7425901b1
+../art/temp/monster/m_meirenyu_injured,--algorithm MaxRects --maxrects-heuristics best,6fe5414376e1c0f112ee6075ec662a65
+../art/temp/monster/m_meirenyu_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,f0f3e885d135d995e0cde3daff9220f2
+../art/temp/monster/m_meirenyu_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,bccd435420d0fa4a4283fe2f04ac5016
+../art/temp/monster/m_mozun_attack,--algorithm MaxRects --maxrects-heuristics area,d59b7bb7b28ba8b6296373f743b917ef
+../art/temp/monster/m_mozun_idle,--basic-order ascending --algorithm Basic --basic-sort-by width,bacdb9ec31275923d3739458d301a7c9
+../art/temp/monster/m_mozun_injured,--algorithm MaxRects --maxrects-heuristics best,d45cee41f5ddf8adac895f2751a2ca77
+../art/temp/monster/m_mozun_ready,--algorithm MaxRects --maxrects-heuristics best,6c4b890e06287fb755eb48d6cb6ecd63
+../art/temp/monster/m_mozun_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,1224f9d0c6449812e32751c33e83cef3
+../art/temp/monster/m_panguan_attack,--algorithm MaxRects --maxrects-heuristics shortSide,c7a3dba4772753826ca18293a9cdee45
+../art/temp/monster/m_panguan_injured,--algorithm MaxRects --maxrects-heuristics best,d597bd53fbe7a1943f6cc0bfe3ba4963
+../art/temp/monster/m_panguan_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,da82f4421633fac4449e08f3d1c54c9c
+../art/temp/monster/m_panguan_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,383b262fed59b8f37b7846d07acf82e8
+../art/temp/monster/m_pugongying_attack,--basic-order ascending --algorithm Basic --basic-sort-by width,beb4a81972e7b54641b0ea6df32f63a3
+../art/temp/monster/m_pugongying_injured,--algorithm MaxRects --maxrects-heuristics best,5ba06ca2b06ba95a3d294e07f0ca0c3e
+../art/temp/monster/m_pugongying_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,9860cda7053aa3de4ef8e497557b2103
+../art/temp/monster/m_pugongying_run,--basic-order ascending --algorithm Basic --basic-sort-by height,f6a48237f420c1736c1ccc193d61adf8
+../art/temp/monster/m_renshenwawa_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,4721f0912f3c6c631493ea48e20fe28f
+../art/temp/monster/m_renshenwawa_injured,--algorithm MaxRects --maxrects-heuristics best,1326ba00931f46115abd0ef374f5d6f0
+../art/temp/monster/m_renshenwawa_ready,--algorithm MaxRects --maxrects-heuristics best,676d3d364d0ad2c0ce156a8d317641b6
+../art/temp/monster/m_renshenwawa_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,d3f74bb96ffe645af0f0d8869f570984
+../art/temp/monster/m_shenmiren_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,31bf16d8be1579f268b642a1822a5edc
+../art/temp/monster/m_shenmiren_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,01093fd639006b9b839e55e74cdfaf20
+../art/temp/monster/m_shenmiren_injured,--algorithm MaxRects --maxrects-heuristics best,6e7797ec5b534cd77a42cea959279d2e
+../art/temp/monster/m_shenmiren_ready,--algorithm MaxRects --maxrects-heuristics area,06d5ae651b6d1c394f1a302d6a3b742e
+../art/temp/monster/m_shenmiren_run,--algorithm MaxRects --maxrects-heuristics best,71c2a4521155e7c713f230e6a9d1f7d4
+../art/temp/monster/m_shouwei_attack,--algorithm MaxRects --maxrects-heuristics longSide,328d5ffa82a9bfbbbf196b487dd3ceb4
+../art/temp/monster/m_shouwei_idle,--basic-order descending --algorithm Basic --basic-sort-by height,5d84644fc9081f1fa2320d96fed8bf2c
+../art/temp/monster/m_shouwei_injured,--algorithm MaxRects --maxrects-heuristics best,3ad6ff903eaec528b4ab0023f54e021e
+../art/temp/monster/m_shouwei_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,bf73dc0f4c1e6e41b45cd5f6002d7f61
+../art/temp/monster/m_shouwei_run,--basic-order descending --algorithm Basic --basic-sort-by circumference,102c78a3347bda4447c004444e64804e
+../art/temp/monster/m_shuyao_attack,--algorithm MaxRects --maxrects-heuristics longSide,ced9b1cafaa57f6635b66bcb119e632a
+../art/temp/monster/m_shuyao_injured,--algorithm MaxRects --maxrects-heuristics best,33ad9bbfe5e5837bf225bb39d16bb82d
+../art/temp/monster/m_shuyao_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,f269ab5603f453525638181381288353
+../art/temp/monster/m_shuyao_run,--algorithm MaxRects --maxrects-heuristics area,d5f4dd9bcf75dcab73d130600ec5e6a8
+../art/temp/monster/m_tianhuang_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,43b1aae1554e3210ad5e986261c427ba
+../art/temp/monster/m_tianhuang_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,8959a2ab4ef9346546f75817af0ff8db
+../art/temp/monster/m_tianhuang_injured,--algorithm MaxRects --maxrects-heuristics best,a886a2996b16b571a81c31dead840345
+../art/temp/monster/m_tianhuang_run,--algorithm MaxRects --maxrects-heuristics longSide,79fb64b6e53ce3962a809e57d6d31adc
+../art/temp/monster/m_tongzi_attack,--basic-order ascending --algorithm Basic --basic-sort-by height,df3b979c9e2fda957a349afcfc91a639
+../art/temp/monster/m_tongzi_injured,--algorithm MaxRects --maxrects-heuristics best,410a45f456f6d273823a1ba7e587478f
+../art/temp/monster/m_tongzi_ready,--algorithm MaxRects --maxrects-heuristics best,3237ede5a65e3e4cc0db31a7b8064a37
+../art/temp/monster/m_tongzi_run,--algorithm MaxRects --maxrects-heuristics best,875584fdac868fd0a042cd6d40326a6b
+../art/temp/monster/m_wuchang_attack,--algorithm MaxRects --maxrects-heuristics area,5c2c3f5fba15cd98ca216374569166c4
+../art/temp/monster/m_wuchang_injured,--algorithm MaxRects --maxrects-heuristics best,5f75aa6c7af444d044830e3a525dec03
+../art/temp/monster/m_wuchang_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,6b35badb95808c72e7328a30ecd31015
+../art/temp/monster/m_wuchang_run,--algorithm MaxRects --maxrects-heuristics contactPoint,1dd094b90235e9710c237ea3e9d41448
+../art/temp/monster/m_xialvshengui_attack,--algorithm MaxRects --maxrects-heuristics shortSide,34aa55ef1786cb07993937537fdf6295
+../art/temp/monster/m_xialvshengui_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,f4313b296a616990b5626c28ddc788f6
+../art/temp/monster/m_xialvshengui_injured,--algorithm MaxRects --maxrects-heuristics best,4d1f7eb85a8548bd5d8a1aa471bc55ea
+../art/temp/monster/m_xialvshengui_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,f4313b296a616990b5626c28ddc788f6
+../art/temp/monster/m_xialvshengui_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,252ee84f16a77013823053bb2ffbdd1c
+../art/temp/monster/m_xiaohuxian_attack,--basic-order ascending --algorithm Basic --basic-sort-by height,4a35a352c040233236cfd6813caa2f94
+../art/temp/monster/m_xiaohuxian_injured,--algorithm MaxRects --maxrects-heuristics best,ae473da836a9b17de39a2058ddc8e132
+../art/temp/monster/m_xiaohuxian_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,a39a98000e503b41d849877eee8d3e13
+../art/temp/monster/m_xiaohuxian_run,--basic-order ascending --algorithm Basic --basic-sort-by height,d13954bb73731986463c38aa5cb91aa3
+../art/temp/monster/m_xiejianxian_attack,--basic-order ascending --algorithm Basic --basic-sort-by height,eeefb6698ec5ff1f57802ea6216d43f7
+../art/temp/monster/m_xiejianxian_injured,--algorithm MaxRects --maxrects-heuristics best,06bcc4867b3d07b0e0d3526f322da44b
+../art/temp/monster/m_xiejianxian_ready,--algorithm MaxRects --maxrects-heuristics contactPoint,ca6d349e6492fb6402339737a8138c19
+../art/temp/monster/m_xiejianxian_run,--algorithm MaxRects --maxrects-heuristics area,397c9f9dee6485e10f1aa120ac9218d3
+../art/temp/monster/m_xiezijing_attack,--algorithm MaxRects --maxrects-heuristics best,bb5f619b6a7c00bbc0daa59056d0b86b
+../art/temp/monster/m_xiezijing_injured,--algorithm MaxRects --maxrects-heuristics best,c56c47d18ec5f2c1b459b9ef443b1943
+../art/temp/monster/m_xiezijing_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,4ab30384a64bcc99f11d551a1898b6f7
+../art/temp/monster/m_xiezijing_run,--basic-order ascending --algorithm Basic --basic-sort-by area,cdc3a4e46a94deeedda60b6756fc634e
+../art/temp/monster/m_yaoguaitoumu_attack,--algorithm MaxRects --maxrects-heuristics contactPoint,5a9c635a5f04d6893b44b273eac5bebb
+../art/temp/monster/m_yaoguaitoumu_idle,--algorithm MaxRects --maxrects-heuristics area,65125fbf777d8837e554c81740554fef
+../art/temp/monster/m_yaoguaitoumu_injured,--algorithm MaxRects --maxrects-heuristics best,e422cd1dd43e583c4b07eae367a4bca1
+../art/temp/monster/m_yaoguaitoumu_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,6f176bcf33f683a547af5af48375a2be
+../art/temp/monster/m_yaoguaitoumu_run,--basic-order ascending --algorithm Basic --basic-sort-by best,40a25b45895d13ec1efa7a2693f0785e
+../art/temp/monster/m_yueguangbaohezhiling_attack,--algorithm MaxRects --maxrects-heuristics longSide,003c73ea2e73bc72cc3b9106a3a9789b
+../art/temp/monster/m_yueguangbaohezhiling_idle,--basic-order ascending --algorithm Basic --basic-sort-by best,0aec4fbe359837f0a05cdf3c23021ba8
+../art/temp/monster/m_yueguangbaohezhiling_injured,--algorithm MaxRects --maxrects-heuristics best,c67b1253bc024ab5d0df29f88ace0be7
+../art/temp/monster/m_yueguangbaohezhiling_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,072afe7f21eaf67a272d668fdcc477b0
+../art/temp/monster/m_yueguangbaohezhiling_run,--basic-order ascending --algorithm Basic --basic-sort-by best,ec3c3917e0eb86522342f7e428122c47
+../art/temp/monster/m_yujing_attack,--basic-order ascending --algorithm Basic --basic-sort-by best,739e54f73bff9ead4b8e76f0fb8100ee
+../art/temp/monster/m_yujing_injured,--algorithm MaxRects --maxrects-heuristics best,8521746ad4364aa44537bbf2f17efeb2
+../art/temp/monster/m_yujing_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,d613e004b31080b1b4559caaf5058be1
+../art/temp/monster/m_yujing_run,--algorithm MaxRects --maxrects-heuristics bottomLeft,b71343f51c6c0f1e6dfb11b01dd38a0c
+../art/temp/n_bailonggongzhu_idle,--algorithm MaxRects --maxrects-heuristics best,f5a9bf81bd586b79c41b1ece02093af4
+../art/temp/n_banghuimengzhu_idle,--algorithm MaxRects --maxrects-heuristics best,a1257785ee2e5833bb690a6358b2101a
+../art/temp/n_linger_die,--algorithm MaxRects --maxrects-heuristics area,12dfd564eb3dc1da2e85f26a3957842a
+../art/temp/n_lishimin_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,9876f6b6b6a71ed1fddf7d15f7cd818b
+../art/temp/n_longwang_idle,--algorithm MaxRects --maxrects-heuristics area,199d77dd8be1ebd5f5bde1b077cf805a
+../art/temp/n_putilaozu_idle,--algorithm MaxRects --maxrects-heuristics contactPoint,985f0de294ec8fe71c1356a495fa5942
+../art/temp/n_qinqiong_idle,--basic-order ascending --algorithm Basic --basic-sort-by height,484da87c1b5a1e0dc24a06659eb40870
+../art/temp/n_qumobang_idle,--algorithm MaxRects --maxrects-heuristics best,a53cfab0283307a987413c47212bda2b
+../art/temp/n_shangren_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,09c8a2c815f9fea239566358cb353188
+../art/temp/n_tianyintongzi_idle,--algorithm MaxRects --maxrects-heuristics longSide,a69c779b9f1d460e9e9d5255ca8b103c
+../art/temp/n_xiaohuoban_idle,--algorithm MaxRects --maxrects-heuristics best,466b1c05e6fd9d0a9d31d0a8bff2b943
+../art/temp/n_yueguangbaohezhiling_attack,--algorithm MaxRects --maxrects-heuristics longSide,003c73ea2e73bc72cc3b9106a3a9789b
+../art/temp/n_yueguangbaohezhiling_idle,--basic-order ascending --algorithm Basic --basic-sort-by best,0aec4fbe359837f0a05cdf3c23021ba8
+../art/temp/n_yueguangbaohezhiling_injured,--algorithm MaxRects --maxrects-heuristics best,c67b1253bc024ab5d0df29f88ace0be7
+../art/temp/n_yueguangbaohezhiling_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,072afe7f21eaf67a272d668fdcc477b0
+../art/temp/n_yueguangbaohezhiling_run,--basic-order ascending --algorithm Basic --basic-sort-by best,ec3c3917e0eb86522342f7e428122c47
+../art/temp/n_yuelao_idle,--algorithm MaxRects --maxrects-heuristics bottomLeft,8e3b0faefd53ac3303f374900dab7be1
+../art/temp/nverguowang_injured,--algorithm MaxRects --maxrects-heuristics shortSide,3ec7110f36a1cc06b46575425a140acf
+../art/temp/r_a,--algorithm MaxRects --maxrects-heuristics bottomLeft,d8fdcf113573d6cf61cef30c321e154b
+../art/temp/r_b,--algorithm MaxRects --maxrects-heuristics best,65efd284188b2cf69f92bfc448a07cb4
+../art/temp/r_c,--algorithm MaxRects --maxrects-heuristics bottomLeft,5d60f847eafaa76cb947b33e6ea87a1e
+../art/temp/s_bailonggongzhu_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,171414ce4f24088c99ccc1356b890127
+../art/temp/s_houyi_attack,--algorithm MaxRects --maxrects-heuristics best,51c9eb2835c5693dfe7ec543c68abfc7
+../art/temp/s_houyi_attack2,--algorithm MaxRects --maxrects-heuristics area,c7f0c1ee42efa9ad9c2e5ded60aff0e2
+../art/temp/s_houyi_idle,--algorithm MaxRects --maxrects-heuristics best,d8a8e963fac8f6d4dc0213a81b8b08f3
+../art/temp/s_houyi_injured,--algorithm MaxRects --maxrects-heuristics best,09be79cf1701727ae3bdd6ffc1fef6ca
+../art/temp/s_houyi_ready,--algorithm MaxRects --maxrects-heuristics bottomLeft,a011b33991c05ae558009a148dc063c8
+../art/temp/s_houyi_run,--algorithm MaxRects --maxrects-heuristics best,9a84d9844b7e57cf37d06e440e66e9ff
+../art/temp/scene_effect2_gangwar2_capture1,--algorithm MaxRects --maxrects-heuristics area,51008ebebd174a1fbf2a0f7c1ca1c90a
+../art/temp/scene_effect2_gangwar2_capture2,--algorithm MaxRects --maxrects-heuristics area,0e4f4209ee9c5150fa2ae673571b93b1
+../art/temp/scene_effect2_gangwar2_fight,--algorithm MaxRects --maxrects-heuristics area,d02b38701917c585312cc1f31363e41f
+../art/temp/taunt,--algorithm MaxRects --maxrects-heuristics longSide,201bf64aebf2732962ec77fe7b438ff9
+../art/temp/temple,--algorithm MaxRects --maxrects-heuristics best,1509aa691730077e3a99c0ee1eb24419
+../art/temp/temple2,--algorithm MaxRects --maxrects-heuristics best,a1af8cf91018e0bf5a0af978b99cedb9
+../art/temp/weapon_cike_0_attack,--algorithm MaxRects --maxrects-heuristics contactPoint,3c180e1c39ad50bd84db3fa7e024b025
+../art/temp/weapon_cike_0_attack2,--algorithm MaxRects --maxrects-heuristics bottomLeft,ba434015a12cf1f028f78c32a78a16d1
+../art/temp/weapon_cike_0_idle_back,--basic-order descending --algorithm Basic --basic-sort-by height,7bae0762ce112cd4e0ddea3a77dfdb8c
+../art/temp/weapon_cike_0_idle_front,--basic-order descending --algorithm Basic --basic-sort-by height,1df46d12928ed7e499183687fe2a688a
+../art/temp/weapon_cike_0_idle_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,caa3469eaf0c0f02010a0354d5891af3
+../art/temp/weapon_cike_0_injured,--algorithm MaxRects --maxrects-heuristics best,f3ff09f9af18ca707b2a47a60de9b24c
+../art/temp/weapon_cike_0_ready,--basic-order ascending --algorithm Basic --basic-sort-by height,3d6f6f6ed0002ea51c96869bc215fa97
+../art/temp/weapon_cike_0_run_back,--algorithm MaxRects --maxrects-heuristics best,fba89290527996d2c47d0f3b52c078a4
+../art/temp/weapon_cike_0_run_front,--basic-order ascending --algorithm Basic --basic-sort-by height,74b13b45b3ad1920271ba277ab108a48
+../art/temp/weapon_cike_0_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,0d4e7bc068e5db93b33fbfc99fc89e0c
+../art/temp/weapon_cike_1_attack3,--algorithm MaxRects --maxrects-heuristics best,8035d8bd2b4b7ddae7dc1bc68c2e9a60
+../art/temp/weapon_fashi_0_attack2,--algorithm MaxRects --maxrects-heuristics contactPoint,432df7844996e16a5521b8817923f0c7
+../art/temp/weapon_fashi_0_injured,--algorithm MaxRects --maxrects-heuristics best,f431a45283b860a41f1ae9501faf753e
+../art/temp/weapon_zhanshi_0_attack,--algorithm MaxRects --maxrects-heuristics best,5123c7440e3b9af852cc4bb7b3bd8409
+../art/temp/weapon_zhanshi_0_attack2,--algorithm MaxRects --maxrects-heuristics longSide,18dd97b3f17d3e62b49d1512b509945a
+../art/temp/weapon_zhanshi_0_attack3,--algorithm MaxRects --maxrects-heuristics best,aa99409d826c51d1b51809d12167a05e
+../art/temp/weapon_zhanshi_0_idle_back,--algorithm MaxRects --maxrects-heuristics bottomLeft,a796880c24cec7280e2590e62989c422
+../art/temp/weapon_zhanshi_0_idle_front,--algorithm MaxRects --maxrects-heuristics best,d9500b1d867a06b82edf3df418b4130c
+../art/temp/weapon_zhanshi_0_idle_side,--basic-order ascending --algorithm Basic --basic-sort-by height,3d9f0b11dd20c059a84e087fc0ed3dc8
+../art/temp/weapon_zhanshi_0_injured,--algorithm MaxRects --maxrects-heuristics best,556749d712c65e416a9ea0eca1431c2b
+../art/temp/weapon_zhanshi_0_ready,--basic-order ascending --algorithm Basic --basic-sort-by best,8e554fa55b0106c0d8cfb8e5519af95b
+../art/temp/weapon_zhanshi_0_run_back,--basic-order ascending --algorithm Basic --basic-sort-by height,290d6ff0783efbf0742581844474ec07
+../art/temp/weapon_zhanshi_0_run_front,--algorithm MaxRects --maxrects-heuristics bottomLeft,ac3f451c2f7466e77c2ac6e820eb71ed
+../art/temp/weapon_zhanshi_0_run_side,--algorithm MaxRects --maxrects-heuristics bottomLeft,73f27dada04f904aaedf8681c8571971
+../art/temp/weapon_zhanshi_1_attack,--algorithm MaxRects --maxrects-heuristics bottomLeft,7e634d6c8b2043641b4b867d0bebb7fe
+../art/ui/arena,--algorithm MaxRects --maxrects-heuristics best,5b5b75a813296320235d0cab3f1a6f73
+../art/ui/array2,--algorithm MaxRects --maxrects-heuristics best,47ca2dbf2534807f6a2f8d7c200f818b
+../art/ui/bag2,--algorithm MaxRects --maxrects-heuristics best,7a79c8011d5d90bb24ab982b9b13cc57
+../art/ui/battle2,--algorithm MaxRects --maxrects-heuristics bottomLeft,8e465fa32d60576ca42312bd04bd42fc
+../art/ui/chat,--algorithm MaxRects --maxrects-heuristics contactPoint,4feee781a95321450d18229fa4cc584f
+../art/ui/chivalrous,--algorithm MaxRects --maxrects-heuristics longSide,653e6b2e762efeae03530e2ab5af2d03
+../art/ui/common2,--algorithm MaxRects --maxrects-heuristics longSide,3cbda5084788a1157588a964fba9aed9
+../art/ui/custom,--basic-order descending --algorithm Basic --basic-sort-by height,80bb007426c5f5ef0a52e305914a737c
+../art/ui/daily_activity2,--algorithm MaxRects --maxrects-heuristics area,fbd70fc509da58261bc02ba72e9504f8
+../art/ui/equip2,--algorithm MaxRects --maxrects-heuristics longSide,d74b92ad2a25e53d59f9bc3a12e71716
+../art/ui/exam,--algorithm MaxRects --maxrects-heuristics bottomLeft,9fb39cc1cd438e18e01cd2d8b0bf75ad
+../art/ui/expedition,--algorithm MaxRects --maxrects-heuristics best,b240caec3e66941169253e8974c3c7c0
+../art/ui/express,--algorithm MaxRects --maxrects-heuristics best,1766e9d74edab46df7b1a9b44970a633
+../art/ui/fairy_war,--algorithm MaxRects --maxrects-heuristics best,b22e64cb778b72ba1897c6eedbd4ffcb
+../art/ui/fameline,--algorithm MaxRects --maxrects-heuristics contactPoint,49ebc541ba53335b2fe6fc602cb0ef42
+../art/ui/friends,--basic-order descending --algorithm Basic --basic-sort-by best,2de004c39987407ec7f37e5fe3d31cbb
+../art/ui/gang,--algorithm MaxRects --maxrects-heuristics bottomLeft,d62c0b87f50fdd04438261f2fa188845
+../art/ui/gang_escort,--algorithm MaxRects --maxrects-heuristics area,cdb7bf984d5ad0b7ab5a85bb26a16659
+../art/ui/gang_worship,--algorithm MaxRects --maxrects-heuristics best,24aa172cc0d74b57993567f686d1903b
+../art/ui/gangwar2,--algorithm MaxRects --maxrects-heuristics area,0095e76604b730619bcf0aabbc7ecfee
+../art/ui/gift,--algorithm MaxRects --maxrects-heuristics best,fc1cfecc388773dea9a6a97c73f1d7d4
+../art/ui/gm,--algorithm MaxRects --maxrects-heuristics bottomLeft,a2447c44f6247d2d112ea1691a7b700f
+../art/ui/guide,--basic-order descending --algorithm Basic --basic-sort-by height,749423eceeee29d449a4acdb470c17c6
+../art/ui/knowledge,--algorithm MaxRects --maxrects-heuristics best,361d4c2db09eef15c3627772d534396d
+../art/ui/levelup,--algorithm MaxRects --maxrects-heuristics longSide,2133c1810a084ca0d81e8e68230bbadc
+../art/ui/mail,--basic-order ascending --algorithm Basic --basic-sort-by width,5a3c2fb60d9266e5f445af89262193ca
+../art/ui/main2,--algorithm MaxRects --maxrects-heuristics bottomLeft,4a8f3c737515a0d0763e029a387841a7
+../art/ui/mall,--basic-order ascending --algorithm Basic --basic-sort-by width,3211676443c4f5eaf85f6dbb17a94c3f
+../art/ui/market,--algorithm MaxRects --maxrects-heuristics best,04b8c30d9128ae666839e01abe764459
+../art/ui/match_battle,--algorithm MaxRects --maxrects-heuristics bottomLeft,a539fd3f9d2181b25cbe4998d0a253f4
+../art/ui/mate2,--algorithm MaxRects --maxrects-heuristics best,9312fc5a6ac9d76516ab42ae158f2074
+../art/ui/mate_exchange,--algorithm MaxRects --maxrects-heuristics longSide,d56f87c76e28a95d391e17c6d89d2378
+../art/ui/mate_hire,--algorithm MaxRects --maxrects-heuristics longSide,69363ce92b8cc0aa6886ca03066008a4
+../art/ui/mission,--algorithm MaxRects --maxrects-heuristics best,b72438f36664afc6cf55d5b9a447c06d
+../art/ui/money_tree,--algorithm MaxRects --maxrects-heuristics bottomLeft,b7632b8fba2c5ec62125384c6d03921d
+../art/ui/new_server,--algorithm MaxRects --maxrects-heuristics best,d591064557a9ed6a5ae67cae64bfe2a3
+../art/ui/operating_activities,--basic-order ascending --algorithm Basic --basic-sort-by best,c3a93b7e0636644e4e4236022ad0aa93
+../art/ui/player2,--algorithm MaxRects --maxrects-heuristics best,45e45695c6b421ff4902abdf73d72648
+../art/ui/quest2,--basic-order descending --algorithm Basic --basic-sort-by height,e8359ccf6bfee1e254282a633e854fee
+../art/ui/quit,--basic-order ascending --algorithm Basic --basic-sort-by best,8182cd00bab296c220398c4445c91680
+../art/ui/rank,--algorithm MaxRects --maxrects-heuristics longSide,04d3f56add1ad14f165983f95867dc3d
+../art/ui/send_flower,--algorithm MaxRects --maxrects-heuristics longSide,2fb5956489d0bf77858cf74794e613eb
+../art/ui/seven_days_login,--basic-order ascending --algorithm Basic --basic-sort-by best,cf6651fae6cc36063d284085fc85bbca
+../art/ui/signin,--basic-order ascending --algorithm Basic --basic-sort-by best,b4c3ef776d2400c738da752b332d202a
+../art/ui/skill2,--algorithm MaxRects --maxrects-heuristics longSide,0fe8d6bfd6294240105b91c355c987f3
+../art/ui/swordsoul,--algorithm MaxRects --maxrects-heuristics best,5ae496cc7a8a2bd6d434757656b16b10
+../art/ui/team,--algorithm MaxRects --maxrects-heuristics best,8b5a8cc7b99b85b0c934dcc3dd7f1c22
+../art/ui/team_hall,--algorithm MaxRects --maxrects-heuristics best,594c0062e6a962dbf6b3d9962c954aef
+../art/ui/team_instance,--algorithm MaxRects --maxrects-heuristics bottomLeft,dc6b29b7028e0713e6d888cc1199e008
+../art/ui/title,--algorithm MaxRects --maxrects-heuristics best,37fde8aff7b0ed50d5e1b1531d68ea7b
+../art/ui/treasure_box,--algorithm MaxRects --maxrects-heuristics best,3beebbc75529cff9579ca39d88eb4432
+../art/ui/vip,--algorithm MaxRects --maxrects-heuristics best,7cefb05d770372e48f9c48184f2c9fb3
+../art/ui/wanted,--basic-order descending --algorithm Basic --basic-sort-by best,c2738b844c642ccbf56129582269e9c0
+../art/受击/model1_injured_down,--algorithm MaxRects --maxrects-heuristics best,ea5bff9a13d5de40a9114c7c85017bad
+../art/受击/model1_injured_up,--algorithm MaxRects --maxrects-heuristics best,3aeb406332505b07d72384b9260fe83e
+../art/战斗待机/model1_ready_down,--basic-order ascending --algorithm Basic --basic-sort-by best,b9355b630d7409d7e26efc1f2cc29fd6
+../art/战斗待机/model1_ready_up,--basic-order ascending --algorithm Basic --basic-sort-by best,1e38796b3fea59ad40e14545ae8ba1d0
