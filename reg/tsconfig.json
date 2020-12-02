@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "debug/",
+    },
+    "include": [
+        "Main.ts",
+        "src"
+    ],
+    "exclude": [
+        "debug"
+    ]
+}
